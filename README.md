@@ -1,1 +1,1 @@
-readme
+![Sample Image](images/image.jpg)
