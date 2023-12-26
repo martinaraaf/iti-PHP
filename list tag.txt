@@ -1,0 +1,13 @@
+git tag
+git show-ref --tags
+git tag -n    If you only want to see the latest tags 
+
+
+delete tag
+
+git tag -d <tagname>  //locally
+
+git tag -d <tagname>
+git push origin :refs/tags/<tagname>
+
+
